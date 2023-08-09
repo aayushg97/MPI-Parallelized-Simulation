@@ -1,2 +1,2 @@
-# MPI-Parallelized-Simulation
-Aliev-Panfilov-Cardiac-Simulation using MPI
+# hw3-starter
+# hw3-starter
