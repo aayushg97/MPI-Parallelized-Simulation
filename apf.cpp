@@ -3,9 +3,6 @@
  * Aliev-Panfilov model
  * We use an explicit method
  *
- * Based on code orginally provided by Xing Cai, Simula Research Laboratory
- * 
- * Modified and  restructured by Scott B. Baden, UCSD, 11/2/2015
  */
 
 #include <iostream>
