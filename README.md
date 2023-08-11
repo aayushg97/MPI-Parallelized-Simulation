@@ -36,6 +36,12 @@ The simulator models electrical signals in an idealized biological system in whi
 
 ![](topGeos.png)
 
+### Strong and Weak Scaling
+
+![strongWeakScaling.png]
+
+![strongWeakScaling2.png]
+
 ## References
 
 1. Microsoft MPI documentation:- MPI Functions - Message Passing Interface | Microsoft Learn
