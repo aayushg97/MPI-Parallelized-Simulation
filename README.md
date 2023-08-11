@@ -12,6 +12,30 @@ The simulator models electrical signals in an idealized biological system in whi
 
 ## Results
 
+### MPI implementation vs Original implementation
+
+![](singleMPIvsOrig.png)
+
+![](MPIComm.png)
+
+### Strong Scaling Study
+
+![](strongScaling1to16.png)
+
+![](strongScaling16to128.png)
+
+### Performance study from 128 to 384 cores
+
+![](perf128to384.png)
+
+### Cost of Computation
+
+![](compCost.png)
+
+### Top-performing geometries for p = 128
+
+![](topGeos.png)
+
 ## References
 
 1. Microsoft MPI documentation:- MPI Functions - Message Passing Interface | Microsoft Learn
