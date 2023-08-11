@@ -1,9 +1,6 @@
 // 
 // Performs various reporting functions
 //
-// Do not change the code in this file, as doing so
-// could cause your submission to be graded incorrectly
-//
 
 #include <iostream>
 #include <iomanip>
