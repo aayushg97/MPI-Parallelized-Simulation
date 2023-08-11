@@ -1,9 +1,5 @@
 // Process command line arguments
 // 
-//
-// Do not change the code in this file, as doing so
-// could cause your submission to be graded incorrectly
-//
 #include <assert.h>
 #include <getopt.h>
 #include <stdlib.h>
