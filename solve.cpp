@@ -1,9 +1,5 @@
 /* 
  * Solves the Aliev-Panfilov model  using an explicit numerical scheme.
- * Based on code orginally provided by Xing Cai, Simula Research Laboratory
- * 
- * Modified and  restructured by Scott B. Baden, UCSD
- * 
  */
 
 #include <assert.h>
