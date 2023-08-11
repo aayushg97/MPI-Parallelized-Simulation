@@ -1,9 +1,5 @@
 /* 
  * Utilities for the Aliev-Panfilov code
- *
- * Based on code orginally provided by Xing Cai, Simula Research Laboratory
- * 
- * Modified and  restructured by Scott B. Baden, UCSD, 11/2/2015
  */
 
 #include <cstdlib>
