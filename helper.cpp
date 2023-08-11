@@ -1,7 +1,5 @@
 /* 
  * Utilities for the Aliev-Panfilov code
- * Scott B. Baden, UCSD
- * Nov 2, 2015
  */
 
 #include <iostream>
