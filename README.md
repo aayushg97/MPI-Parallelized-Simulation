@@ -38,9 +38,9 @@ The simulator models electrical signals in an idealized biological system in whi
 
 ### Strong and Weak Scaling
 
-![strongWeakScaling.png]
+![](strongWeakScaling.png)
 
-![strongWeakScaling2.png]
+![](strongWeakScaling2.png)
 
 ## References
 
